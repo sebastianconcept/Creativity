@@ -1,30 +1,41 @@
 Creativity
 ==========
 
-Creativity is a prototype of a Smalltalk browser for Pharo biased to productivity and the development experience and creative flow 
+>_The purpose of the Smalltalk project is to provide computer support for the creative spirit in everyone_ ~ **[Dan Ingalls](http://en.wikipedia.org/wiki/Daniel_Henry_Holmes_Ingalls,_Jr.)**, [Design Principles Behind Smalltalk](http://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 
-Creativity is the Smalltalk missing developing tool. Is the browser you didn't know you want
+Creativity is the prototype of a Smalltalk browser biased on:
+
+- productivity and 
+- the development experience and 
+- the _[creative flow](http://en.wikipedia.org/wiki/Flow_(psychology))_ of the software developer
+
+
 
 ##What is not?
 
-This is not a final product or a production ready tool. 
+This is not a final product or a production ready tool
+
+So..
+
 **Do _not_ load in your image**
 
 ##What is it?
-Is an innovative prototype of a Smalltalk code Browser that goes beyond the classic Class Hierarchy Browser and at the same time is not too weird to alienate developers
+Is an innovative prototype of a Smalltalk code Browser that warmly welcome new users and should not feel too disruptive for veteran coders
 
-It's heavily biased to achieve high productivity and maximizing access to expected and unexpected conveniences while coding
+It goes beyond the classic [Class Hierarchy Browser](http://en.wikipedia.org/wiki/Class_browser) and at the same time is not too weird to alienate developers
 
-It rewards a lot the most common tasks and intentionally hides nerdy things that sounds functionally great but aren't don't actually make any difference because they aren't frecuently used when developing comercial software applications
+It's heavily biased to achieve _high productivity_ and _creative flow_ and _abstract thinking_ by providing rich hierarchy feedback and maximisation of access to expected and unexpected conveniences while coding
 
-Aimed to do [Usability Tests](http://en.wikipedia.org/wiki/Usability_testing) and start a discussion on productivity when coding with Smalltalk
+It rewards _a lot_ the most common tasks and intentionally hides all the specific things that are functionally great but rarely used while developing comercial software applications
+
+Aimed to do [Usability Tests](http://en.wikipedia.org/wiki/Usability_testing) and start a discussion on productivity and the removal of creativity barriers while coding with [Smalltalk](http://en.wikipedia.org/wiki/Smalltalk)
 
 ##Goal
 
 Make a point on this particular design and recruit effort towards making a production ready tool based on qualified feedback
 
 ##How to use it
-1. go to your git/ dir and clone this repo with:    git clone git@github.com:sebastianconcept/Creativity.git
+1. go to your git/ dir and clone this repo with:    git clone https://github.com/sebastianconcept/Creativity.git
 2. cd Creativity
 3. ./load  and wait until it download the image and
 4. wait until it completes loading the code into the image
@@ -34,17 +45,24 @@ Make a point on this particular design and recruit effort towards making a produ
 
 Then you can evaluate:
 
-Creativity openOn: AnyClass
+Creativity openOn: Collection
 
-and a new Creativity browser will open on it
+and a new Creativity browser will open on that class
 
 Have fun
 
 ##Notes
 
-The autocompleter does not work but the intention behind it is helping the user by lowering the friction and memory load to access the most important things while coding: Classes and methods
+This started as a weekend experiment and only a few things work. For example, the autocompleter does not work but the intention behind it is helping the user by lowering the friction and memory load to access the most important things while coding: Classes and methods
 
-It should maximise free and loose association of ideas and _evade_ adding requisites like case sensitivity or position of named things. For example: if you type 'collec' or 'CoLLe' or 'orderedco' you should see, for all those three cases, OrderecCollection among the results. Note that rewarding classes among the results will help to achieve the described goal
+It should maximise free and loose association of ideas and _evade_ loading the user's memory with formal requisites like case sensitivity or position of named things. For example: if you type 'collec' or 'CoLLe' or 'orderedco' you should see, for all those three cases, OrderecCollection among the results. Note that rewarding classes among the results will help to achieve the described goal
+
+This was also quite inspiring:
+
+> Guy Steele: _...last question please. What suggestions do you have for the young researchers today? What do you think are the important problems to be working on?_ 
+
+
+> [Jhon McCarthy](http://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)): _Formalizing common sense_
 
 ##Contributions and feedback
 
