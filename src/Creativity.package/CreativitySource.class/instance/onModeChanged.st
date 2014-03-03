@@ -1,0 +1,4 @@
+reactions
+onModeChanged
+
+	self setSelectedMethod

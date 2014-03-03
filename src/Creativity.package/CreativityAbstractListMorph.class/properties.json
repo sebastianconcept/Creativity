@@ -1,0 +1,15 @@
+{
+	"category" : "Creativity-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"list",
+		"listModel" ],
+	"name" : "CreativityAbstractListMorph",
+	"pools" : [
+		 ],
+	"super" : "AbstractCreativityMorph",
+	"type" : "normal" }

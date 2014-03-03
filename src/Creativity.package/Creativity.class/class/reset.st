@@ -1,0 +1,4 @@
+actions
+reset
+
+	visits := nil

@@ -1,0 +1,15 @@
+{
+	"category" : "Creativity-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sebastiansastre 11/20/2012 10:56",
+	"instvars" : [
+		"itemName",
+		"parent" ],
+	"name" : "CreativityObjectWrapper",
+	"pools" : [
+		 ],
+	"super" : "ListItemWrapper",
+	"type" : "normal" }

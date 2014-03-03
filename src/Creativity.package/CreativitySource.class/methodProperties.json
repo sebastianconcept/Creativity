@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"beComment" : "sebastiansastre 11/22/2012 22:37",
+		"beDefinition" : "sebastiansastre 11/24/2012 00:12",
+		"beMethod" : "sebastiansastre 11/24/2012 00:14",
+		"build" : "sebastiansastre 11/22/2012 22:37",
+		"comment" : "sebastiansastre 11/16/2012 17:41",
+		"definition" : "sebastiansastre 11/16/2012 17:41",
+		"isMethod" : "sebastiansastre 11/24/2012 00:11",
+		"method" : "sebastiansastre 11/16/2012 17:25",
+		"model:" : "sebastiansastre 11/17/2012 20:21",
+		"onClassChanged:" : "sebastiansastre 11/24/2012 00:15",
+		"onClassMethodChanged:" : "sebastiansastre 11/22/2012 22:28",
+		"onMethodChanged:" : "sebastiansastre 11/22/2012 22:36",
+		"onModeChanged" : "sebastiansastre 11/22/2012 22:45",
+		"onProtocolChanged:" : "sebastiansastre 11/22/2012 20:42",
+		"setObservations" : "sebastiansastre 11/22/2012 22:45",
+		"setSelectedMethod" : "sebastiansastre 11/22/2012 22:36" } }

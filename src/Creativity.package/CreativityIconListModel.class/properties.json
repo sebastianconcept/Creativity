@@ -1,0 +1,14 @@
+{
+	"category" : "Creativity-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sebastiansastre 11/20/2012 10:57",
+	"instvars" : [
+		"iconGetter" ],
+	"name" : "CreativityIconListModel",
+	"pools" : [
+		 ],
+	"super" : "ListModel",
+	"type" : "normal" }

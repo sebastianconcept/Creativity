@@ -1,0 +1,15 @@
+{
+	"category" : "Creativity-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"oldSuperClass",
+		"newSuperClass" ],
+	"name" : "CreativityClassDefinitionChanged",
+	"pools" : [
+		 ],
+	"super" : "CreativityAbstractAnnouncement",
+	"type" : "normal" }

@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"build" : "sebastiansastre 11/16/2012 02:07",
+		"items" : "sebastiansastre 11/17/2012 19:42",
+		"makeItems" : "sebastiansastre 11/18/2012 22:06",
+		"model:" : "sebastiansastre 11/18/2012 22:19",
+		"northFrame" : "sebastiansastre 11/24/2012 18:27",
+		"onClassChanged:" : "sebastiansastre 11/24/2012 18:55",
+		"onClassDefinitionChanged:" : "sebastiansastre 11/25/2012 12:29",
+		"package" : "sebastiansastre 11/16/2012 02:04",
+		"packageHeight" : "sebastiansastre 11/24/2012 18:27",
+		"refresh:movedFrom:to:" : "sebastiansastre 11/25/2012 12:39",
+		"setBehavior" : "sebastiansastre 11/25/2012 12:35",
+		"setObservations" : "sebastiansastre 11/24/2012 23:50",
+		"setScroll" : "sebastiansastre 11/24/2012 23:48",
+		"southFrame" : "sebastiansastre 11/24/2012 18:27",
+		"update:" : "sebastiansastre 11/24/2012 23:49" } }

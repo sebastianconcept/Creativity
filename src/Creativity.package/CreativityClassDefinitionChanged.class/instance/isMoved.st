@@ -1,0 +1,4 @@
+testing
+isMoved
+
+	^ oldSuperClass ~= newSuperClass 

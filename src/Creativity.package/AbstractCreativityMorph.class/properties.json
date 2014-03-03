@@ -1,0 +1,14 @@
+{
+	"category" : "Creativity-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"isBuilt" ],
+	"name" : "AbstractCreativityMorph",
+	"pools" : [
+		 ],
+	"super" : "ComposableMorph",
+	"type" : "normal" }

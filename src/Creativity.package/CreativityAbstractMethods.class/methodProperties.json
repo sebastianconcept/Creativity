@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"build" : "sebastiansastre 11/24/2012 16:44",
+		"buildToolbar" : "sebastiansastre 11/19/2012 22:51",
+		"getList" : "sebastiansastre 11/19/2012 22:11",
+		"iconFor:" : "sebastiansastre 11/25/2012 18:47",
+		"listHelpText" : "sebastiansastre 11/19/2012 19:29",
+		"onProtocolChanged:" : "sebastiansastre 11/22/2012 16:48" } }

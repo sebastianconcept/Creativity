@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"addVisit:" : "sebastiansastre 11/24/2012 19:10",
+		"defaultExtent" : "sebastiansastre 11/24/2012 12:08",
+		"defaultRightProportion" : "sebastiansastre 11/13/2012 10:26",
+		"maxVisits" : "sebastiansastre 11/25/2012 11:42",
+		"open" : "sebastiansastre 11/24/2012 12:08",
+		"openOn:" : "sebastiansastre 11/24/2012 10:37",
+		"reset" : "sebastiansastre 11/24/2012 12:08",
+		"visits" : "sebastiansastre 11/24/2012 12:09" },
+	"instance" : {
+		"browseClass:" : "sebastiansastre 11/24/2012 16:32",
+		"build" : "sebastiansastre 11/19/2012 22:20",
+		"makeWindow" : "sebastiansastre 11/13/2012 10:17",
+		"methodsAndSource" : "sebastiansastre 11/13/2012 10:46",
+		"model:" : "sebastiansastre 11/17/2012 20:17",
+		"navigation" : "sebastiansastre 11/20/2012 20:54",
+		"onClassChanged:" : "sebastiansastre 11/24/2012 10:47",
+		"onClassDefinitionChanged:" : "sebastiansastre 11/25/2012 12:23",
+		"open" : "sebastiansastre 11/21/2012 08:43",
+		"setObservations" : "sebastiansastre 11/25/2012 12:23",
+		"window" : "sebastiansastre 11/13/2012 10:08",
+		"windowTitle" : "sebastiansastre 11/24/2012 23:51" } }

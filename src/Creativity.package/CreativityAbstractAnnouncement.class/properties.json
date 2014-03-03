@@ -1,0 +1,15 @@
+{
+	"category" : "Creativity-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"subject",
+		"isBubbling" ],
+	"name" : "CreativityAbstractAnnouncement",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

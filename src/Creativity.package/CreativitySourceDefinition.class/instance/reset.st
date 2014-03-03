@@ -1,0 +1,4 @@
+actions
+reset
+	
+	text := nil

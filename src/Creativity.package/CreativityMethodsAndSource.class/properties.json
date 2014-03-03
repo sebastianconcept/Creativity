@@ -1,0 +1,15 @@
+{
+	"category" : "Creativity-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"methods",
+		"source" ],
+	"name" : "CreativityMethodsAndSource",
+	"pools" : [
+		 ],
+	"super" : "AbstractCreativityMorph",
+	"type" : "normal" }

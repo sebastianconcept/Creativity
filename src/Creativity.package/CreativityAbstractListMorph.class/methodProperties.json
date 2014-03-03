@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"clearSelection" : "sebastiansastre 11/22/2012 18:52",
+		"hasSelection" : "sebastiansastre 11/22/2012 22:56",
+		"initializeList" : "sebastiansastre 11/20/2012 10:17",
+		"initializeListModel" : "sebastiansastre 11/24/2012 19:26",
+		"list" : "sebastiansastre 11/20/2012 10:16",
+		"listModel" : "sebastiansastre 11/24/2012 19:03",
+		"onClassChanged:" : "sebastiansastre 11/22/2012 16:46",
+		"onModelChanged" : "sebastiansastre 11/20/2012 11:13",
+		"onSelectionChanged" : "sebastiansastre 11/20/2012 10:29",
+		"reset" : "sebastiansastre 11/20/2012 11:36",
+		"selectFirst" : "sebastiansastre 11/22/2012 21:44",
+		"setObservations" : "sebastiansastre 11/22/2012 17:29",
+		"setSelection" : "sebastiansastre 11/20/2012 11:13" } }

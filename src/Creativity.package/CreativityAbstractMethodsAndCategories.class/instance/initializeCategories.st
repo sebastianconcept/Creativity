@@ -1,0 +1,4 @@
+initialization
+initializeCategories 
+
+	^ self subclassResponsibility 

@@ -1,0 +1,4 @@
+actions
+setSelectedMethod
+
+	self refresh 

@@ -1,0 +1,15 @@
+{
+	"category" : "Creativity-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sebastiansastre 11/20/2012 11:09",
+	"instvars" : [
+		"search",
+		"display" ],
+	"name" : "CreativityNavigation",
+	"pools" : [
+		 ],
+	"super" : "AbstractCreativityMorph",
+	"type" : "normal" }

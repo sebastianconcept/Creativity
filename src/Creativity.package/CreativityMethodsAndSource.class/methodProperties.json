@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"build" : "sebastiansastre 11/19/2012 22:49",
+		"hasMethods" : "sebastiansastre 11/22/2012 22:34",
+		"methods" : "sebastiansastre 11/19/2012 11:59",
+		"model:" : "sebastiansastre 11/17/2012 20:46",
+		"northFrame" : "sebastiansastre 11/13/2012 16:06",
+		"onClassChanged:" : "sebastiansastre 11/24/2012 00:14",
+		"onClassMethodChanged:" : "sebastiansastre 11/22/2012 22:29",
+		"onMethodChanged:" : "sebastiansastre 11/22/2012 22:40",
+		"onProtocolChanged:" : "sebastiansastre 11/22/2012 22:05",
+		"selectFirstMethodOrFail" : "sebastiansastre 11/22/2012 22:00",
+		"setObservations" : "sebastiansastre 11/22/2012 22:40",
+		"source" : "sebastiansastre 11/13/2012 10:48",
+		"southFrame" : "sebastiansastre 11/13/2012 16:06" } }

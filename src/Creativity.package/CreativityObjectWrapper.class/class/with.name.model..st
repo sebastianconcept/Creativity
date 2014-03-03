@@ -1,0 +1,5 @@
+actions
+with: anObject name: aString model: aModel
+
+	^self new 
+		setItem: anObject name: aString model: aModel

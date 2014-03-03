@@ -1,0 +1,14 @@
+{
+	"category" : "Creativity-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CreativitySearchChanged",
+	"pools" : [
+		 ],
+	"super" : "CreativityAbstractAnnouncement",
+	"type" : "normal" }

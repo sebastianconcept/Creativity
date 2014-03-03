@@ -1,0 +1,16 @@
+{
+	"category" : "Creativity-Core",
+	"classinstvars" : [
+		"visits" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sebastiansastre 11/20/2012 20:12",
+	"instvars" : [
+		"window",
+		"navigation",
+		"methodsAndSource" ],
+	"name" : "Creativity",
+	"pools" : [
+		 ],
+	"super" : "AbstractCreativityMorph",
+	"type" : "normal" }

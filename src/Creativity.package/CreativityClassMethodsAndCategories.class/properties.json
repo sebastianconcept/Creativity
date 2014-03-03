@@ -1,0 +1,14 @@
+{
+	"category" : "Creativity-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CreativityClassMethodsAndCategories",
+	"pools" : [
+		 ],
+	"super" : "CreativityAbstractMethodsAndCategories",
+	"type" : "normal" }

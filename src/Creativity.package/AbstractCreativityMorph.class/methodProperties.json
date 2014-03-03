@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"announce:" : "sebastiansastre 11/22/2012 18:56",
+		"beBuilt" : "sebastiansastre 11/19/2012 22:19",
+		"build" : "sebastiansastre 11/13/2012 10:41",
+		"hasModel" : "sebastiansastre 11/23/2012 14:57",
+		"isBuilt" : "sebastiansastre 11/19/2012 22:18",
+		"model:" : "sebastiansastre 11/19/2012 22:13",
+		"on:do:" : "sebastiansastre 11/20/2012 18:25",
+		"onModelChanged" : "sebastiansastre 11/22/2012 17:27",
+		"parent" : "sebastiansastre 11/22/2012 17:23",
+		"setObservations" : "sebastiansastre 11/22/2012 17:25" } }

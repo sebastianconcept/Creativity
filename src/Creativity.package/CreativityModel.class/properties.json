@@ -1,0 +1,23 @@
+{
+	"category" : "Creativity-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"announcer",
+		"search",
+		"behavior",
+		"package",
+		"protocol",
+		"method",
+		"classProtocol",
+		"classMethod",
+		"isInstance",
+		"visitsItem" ],
+	"name" : "CreativityModel",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }
