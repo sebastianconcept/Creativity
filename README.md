@@ -72,6 +72,13 @@ Currently (March, 2014) I don't have bandwidth for coding on this, but if you wa
 
 I'd be glad to hear smalltalkers sensible to productivity and help in any way I can
 
+##Screenshot
+
+Be forgiving! Visuals weren’t worked at [this stage](http://en.wikipedia.org/wiki/Usability_testing)! (flow and UX was)
+
+![Creativity Browser shreenshot](https://dl.dropboxusercontent.com/u/12583632/CreativityScreenshot1.png)
+
+
 ---
 [sebastian sastre](http://about.me/sebastianconcept) - 2014
 
