@@ -7,7 +7,7 @@ Creativity is the prototype of a Smalltalk browser biased on:
 
 - productivity and 
 - the development experience and 
-- the _[creative flow](http://en.wikipedia.org/wiki/Flow_(psychology))_ of the software developer
+- the [creative flow](http://en.wikipedia.org/wiki/Flow_(psychology)) of the software developer
 
 
 
